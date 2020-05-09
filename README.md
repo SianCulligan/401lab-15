@@ -16,7 +16,7 @@ Setup
 - No .env required
 
 How to initialize/run your application 
-- Run ``npm start`` from the terminal
+- Run ``node index.js`` from the terminal
 
 How do you run tests?
 - Run ``npm test`` from the terminal
