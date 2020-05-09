@@ -8,24 +8,15 @@ Author: Sian Culligan
 Links and Resources
 - Randee Orion (classmate)
 
-submission PR
-ci/cd (GitHub Actions)
-back-end server url (when applicable)
-front-end application (when applicable)
+Submission PR
+- https://github.com/SianCulligan/401lab-15/pull/1
+
+
 Setup
-.env requirements (where applicable)
-i.e.
+- No .env required
 
-PORT - Port Number
-MONGODB_URI - URL to the running mongo instance/db
-How to initialize/run your application (where applicable)
-e.g. npm start
-How to use your library (where applicable)
-Tests
+How to initialize/run your application 
+- Run ``npm start`` from the terminal
+
 How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
-UML
-Link to an image of the UML for your application and response to events
-
-© Code Fellows 2020
+- Run ``npm test`` from the terminal
